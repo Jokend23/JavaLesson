@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48eb1bc9-0a03-44e6-80ac-4570ec482bed" name="Default Changelist" comment="add lab_7">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FarrukhLessons/lab_3/lab_3_zadanie_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FarrukhLessons/lab_3/lab_3_zadanie_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FarrukhLessons/lab_3/lab_3_zadanie_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FarrukhLessons/lab_3/lab_3_zadanie_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_3/lab_3_zadanie_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_3/lab_3_zadanie_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_3/lab_3_zadanie_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_3/lab_3_zadanie_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_5/lab_5_zadanie_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_5/lab_5_zadanie_1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1hrhizP9VCT8nFnkRRxUJ0cyWaZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.lab-4-1">
+    <configuration name="lab-2-1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_2.lab_2_class" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-2-2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_2.lab_2_class_2" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-3-1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_3.lab_3_zadanie_1" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-3-2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_3.lab_3_zadanie_2" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-3-3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_3.lab_3_zadanie_3" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-3-4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_3.lab_3_zadanie_4" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-3-5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_3.lab_3_zadanie_5" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-4-1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_4.lab_4_zadanie_1" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-4-2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_4.lab_4_zadanie_2" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-5-1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_5.lab_5_zadanie_1" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-6-1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_6.lab_6_zadanie_1" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-6-2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_6.lab_6_zadanie_2" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-6-3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_6.lab_6_zadanie_3" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-6-4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_6.lab_6_zadanie_4" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-6-5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_6.lab_6_zadanie_5" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-6-6" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_6.lab_6_zadanie_6" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-6-7" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_6.lab_6_zadanie_7" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-7-1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_7.lab_7_zadanie_1" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-7-2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_7.lab_7_zadanie_2" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="level1.zadanie1" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie10" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="level1.zadanie10" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="level1.zadanie2" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="level1.zadanie3" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="level1.zadanie4" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="level1.zadanie5" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie6" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="level1.zadanie6" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie7" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="level1.zadanie7" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie8" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="level1.zadanie8" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie9" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="level1.zadanie9" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.lab-2-1" />
+      <item itemvalue="Application.lab-2-2" />
+      <item itemvalue="Application.lab-3-1" />
+      <item itemvalue="Application.lab-3-2" />
+      <item itemvalue="Application.lab-3-3" />
+      <item itemvalue="Application.lab-3-4" />
+      <item itemvalue="Application.lab-3-5" />
+      <item itemvalue="Application.lab-4-1" />
+      <item itemvalue="Application.lab-4-2" />
+      <item itemvalue="Application.lab-5-1" />
+      <item itemvalue="Application.lab-6-1" />
+      <item itemvalue="Application.lab-6-2" />
+      <item itemvalue="Application.lab-6-3" />
+      <item itemvalue="Application.lab-6-4" />
+      <item itemvalue="Application.lab-6-5" />
+      <item itemvalue="Application.lab-6-6" />
+      <item itemvalue="Application.lab-6-7" />
+      <item itemvalue="Application.lab-7-1" />
+      <item itemvalue="Application.lab-7-2" />
+      <item itemvalue="Application.zadanie10" />
+      <item itemvalue="Application.zadanie1" />
+      <item itemvalue="Application.zadanie2" />
+      <item itemvalue="Application.zadanie3" />
+      <item itemvalue="Application.zadanie4" />
+      <item itemvalue="Application.zadanie5" />
+      <item itemvalue="Application.zadanie6" />
+      <item itemvalue="Application.zadanie7" />
+      <item itemvalue="Application.zadanie8" />
+      <item itemvalue="Application.zadanie9" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48eb1bc9-0a03-44e6-80ac-4570ec482bed" name="Default Changelist" comment="" />
+      <created>1600775256303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600775256303</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add new project java">
+      <created>1600918617436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600918617436</updated>
+    </task>
+    <task id="LOCAL-00002" summary="clear some code">
+      <created>1600919197925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600919197925</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add lab2, lab3, lab4, lab5, lab6">
+      <created>1606029187973</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606029187973</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add lab2, lab3, lab4, lab5, lab6">
+      <created>1606029225921</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606029225921</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add src of labs">
+      <created>1606029919734</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606029919734</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add lab_7">
+      <created>1606039333735</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606039333735</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new project java" />
+    <MESSAGE value="clear some code" />
+    <MESSAGE value="add lab2, lab3, lab4, lab5, lab6" />
+    <MESSAGE value="add src of labs" />
+    <MESSAGE value="add lab_7" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lab_7" />
+  </component>
+</project>

@@ -12,8 +12,13 @@ public class lab_3_zadanie_4 {
         double h = sc.nextFloat();
         double g = 9.8;
         double result;
+        double time = 5;
+        double find_h;
 
-        result = Math.sqrt(h*2/g);
+        result = (g*Math.pow(time, 2)) / 2;
         System.out.println(result);
+
+//        result = Math.sqrt(h*2/g);
+//        System.out.println(result);
     }
 }

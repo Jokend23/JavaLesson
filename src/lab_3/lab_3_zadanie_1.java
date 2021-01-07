@@ -7,15 +7,21 @@ public class lab_3_zadanie_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите степерь двойки: ");
-        int n = sc.nextInt();
-        int result = 1;
-        int degree = 2;
+        double n = sc.nextDouble();
+        double result = 1;
+        double degree = 2;
 
+        if (n > 0) {
+            for (var i = 0; i < n; i++) {
+                result *= degree;
+            }
 
-        for (var i = 0; i < n; i++) {
-            result *= degree;
+            System.out.println(result);
+        } else {
+            for (var i = 0; i > n; i--) {
+                result *= degree;
+            }
+            System.out.println(1 / result);
         }
-
-        System.out.println(result);
     }
 }
