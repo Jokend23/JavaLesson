@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,14 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48eb1bc9-0a03-44e6-80ac-4570ec482bed" name="Default Changelist" comment="add lab_7">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FarrukhLessons/lab_3/lab_3_zadanie_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FarrukhLessons/lab_3/lab_3_zadanie_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FarrukhLessons/lab_3/lab_3_zadanie_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FarrukhLessons/lab_3/lab_3_zadanie_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_3/lab_3_zadanie_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_3/lab_3_zadanie_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_3/lab_3_zadanie_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_3/lab_3_zadanie_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_5/lab_5_zadanie_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_5/lab_5_zadanie_1.java" afterDir="false" />
-    </list>
+    <list default="true" id="48eb1bc9-0a03-44e6-80ac-4570ec482bed" name="Default Changelist" comment="add lab_7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,23 +44,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="1hrhizP9VCT8nFnkRRxUJ0cyWaZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
-  <component name="RunManager" selected="Application.lab-4-1">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.lab-5-2">
     <configuration name="lab-2-1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="lab_2.lab_2_class" />
       <module name="FarrukhLessons" />
@@ -130,6 +131,13 @@
     </configuration>
     <configuration name="lab-5-1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="lab_5.lab_5_zadanie_1" />
+      <module name="FarrukhLessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab-5-2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_5.lab_zadanie_1_switch" />
       <module name="FarrukhLessons" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -269,6 +277,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.lab-5-2" />
       <item itemvalue="Application.lab-2-1" />
       <item itemvalue="Application.lab-2-2" />
       <item itemvalue="Application.lab-3-1" />
@@ -308,6 +317,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600775256303</updated>
+      <workItem from="1696426890067" duration="899000" />
     </task>
     <task id="LOCAL-00001" summary="add new project java">
       <created>1600918617436</created>
@@ -354,6 +364,9 @@
     <option name="localTasksCounter" value="7" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
       <list>
@@ -374,7 +387,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new project java" />
